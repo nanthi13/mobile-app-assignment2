@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// recipe class. Requires a string title and ingredients, as well as int steps and time in minutes.
 class Recipe {
   const Recipe(
       {required this.title,

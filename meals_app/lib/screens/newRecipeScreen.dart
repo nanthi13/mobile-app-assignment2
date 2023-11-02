@@ -3,6 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:meals_app/models/meal.dart';
 import 'package:meals_app/models/recipe.dart';
 
+// screen for creating and submitting a new recipe
 class NewRecipeScreen extends ConsumerWidget {
   const NewRecipeScreen({super.key, required this.recipe});
 

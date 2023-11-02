@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// Category for the meals
 class Category {
   const Category(
       {required this.id, required this.title, this.color = Colors.orange});

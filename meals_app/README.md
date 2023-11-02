@@ -32,5 +32,6 @@ There would be a plus "+" button that would display a card where the user would 
 Then there would be a submit button under these textfields where onclick would submit the recipe to the list of recipes. The newRecipe card would then close, and the user would be returned to the list of recipes screen that would have been updated with the recipe the user had just submitted. 
 
 
-Class Diagram:  
-<img width="843" alt="classDiagram-meals_app" src="meals_app/Documentation/classDiagram-meals_app.png">
+Class Diagram:
+![Class Diagram](meals_app/Documentation/classDiagram-meals_app.png)
+

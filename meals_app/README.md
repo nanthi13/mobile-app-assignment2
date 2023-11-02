@@ -9,8 +9,8 @@ The app is built in flutter using dart. Flutter makes the app multiplatform and 
 
 App Specifications: * select category. Then select a meal to view. This will then display the details of the meal. There’s also a menu on the left. By tapping it you’ll see filters, and can set them to your preference. Any meal can be added to favorites list by going to the meal and tapping on the star in the upper right corner. The star will spin and you’ll get a popup message saying whether the mela was added or removed from your favorites. You can view your favorite meals by selecting the favorites tab on the bottom middle part of the screen. 
 
-**Folder Structure: 
-**
+**Folder Structure**
+
 The main files are stored in the lib folder. At the root of the lib folder you'll see the main file along with some folders. These folders are Widgets, screens, providers models and data. 
 
 **User Stories**

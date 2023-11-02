@@ -32,4 +32,4 @@ Then there would be a submit button under these textfields where onclick would s
 
 
 Class Diagram:  
-<img width="1800" alt="classDiagram-meals_app" src="https://github.com/nanthi13/mobile-app-assignment2/assets/94906368/3d1e6cde-7ac6-43ce-b733-65dcfc33a317">
+<img width="843" alt="classDiagram-meals_app" src="https://github.com/nanthi13/mobile-app-assignment2/assets/94906368/2f9beb09-e4cb-42b0-ae58-2d8fd457361a">

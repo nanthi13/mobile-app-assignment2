@@ -33,4 +33,4 @@ Then there would be a submit button under these textfields where onclick would s
 
 
 Class Diagram:  
-<img width="843" alt="classDiagram-meals_app" src="https://github.com/nanthi13/mobile-app-assignment2/assets/94906368/2f9beb09-e4cb-42b0-ae58-2d8fd457361a">
+<img width="843" alt="classDiagram-meals_app" src="[https://github.com/nanthi13/mobile-app-assignment2/assets/94906368/2f9beb09-e4cb-42b0-ae58-2d8fd457361a](https://github.com/nanthi13/mobile-app-assignment2/blob/myFeature/meals_app/Documentation/classDiagram-meals_app.png)https://github.com/nanthi13/mobile-app-assignment2/blob/myFeature/meals_app/Documentation/classDiagram-meals_app.png">
